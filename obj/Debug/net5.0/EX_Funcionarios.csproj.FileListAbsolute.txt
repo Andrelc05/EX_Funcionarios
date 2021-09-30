@@ -1,0 +1,16 @@
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\bin\Debug\net5.0\EX_Funcionarios.exe
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\bin\Debug\net5.0\EX_Funcionarios.deps.json
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\bin\Debug\net5.0\EX_Funcionarios.runtimeconfig.json
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\bin\Debug\net5.0\EX_Funcionarios.runtimeconfig.dev.json
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\bin\Debug\net5.0\EX_Funcionarios.dll
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\bin\Debug\net5.0\ref\EX_Funcionarios.dll
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\bin\Debug\net5.0\EX_Funcionarios.pdb
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\obj\Debug\net5.0\EX_Funcionarios.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\obj\Debug\net5.0\EX_Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\obj\Debug\net5.0\EX_Funcionarios.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\obj\Debug\net5.0\EX_Funcionarios.AssemblyInfo.cs
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\obj\Debug\net5.0\EX_Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\obj\Debug\net5.0\EX_Funcionarios.dll
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\obj\Debug\net5.0\ref\EX_Funcionarios.dll
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\obj\Debug\net5.0\EX_Funcionarios.pdb
+C:\Users\andre\Desktop\PASTAS\C#\EX_Funcionarios\EX_Funcionarios\obj\Debug\net5.0\EX_Funcionarios.genruntimeconfig.cache
